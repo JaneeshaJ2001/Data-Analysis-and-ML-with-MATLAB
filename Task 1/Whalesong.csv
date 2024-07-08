@@ -1,0 +1,21 @@
+Audio,Whale Type,Moan_Start,Moan_End,Moan_Duration,Trill_Start,Trill_End,Trill_Duration,Average_Spectral_Centroid,Label
+NETS_bluWhale.wav,Blue Whale,1.727875,11.88275,10.154875,0,0,0,68.39750656,1
+audio_file10.wav,Blue Whale,0.499002268,2.059478458,1.56047619,0,0,0,508.2732163,1
+audio_file2.wav,Blue Whale,0.635125,2.27925,1.644125,0,0,0,272.0245823,1
+audio_file3.wav,Blue Whale,4.209625,5.733875,1.52425,0,2.516125,2.516125,180.9216093,1
+audio_file4.wav,Blue Whale,0.502,1.53025,1.02825,0.012125,0.756,0.743875,203.5042366,1
+audio_file5.wav,Blue Whale,1.079625,2.41325,1.333625,0.03525,5.65925,5.624,173.0834207,1
+audio_file6.wav,Blue Whale,0.9315,3.508125,2.576625,0.34475,5.27425,4.9295,177.1288766,1
+audio_file7.wav,Blue Whale,0.77425,2.165375,1.391125,2.03225,4.112875,2.080625,203.3301954,1
+audio_file8.wav,Blue Whale,2.491875,4.584625,2.09275,0,0,0,263.5065869,1
+audio_file9.wav,Blue Whale,1.95968254,4.124988662,2.165306122,0,0,0,610.0486093,1
+Humpback Whale Call-SoundBible.com-1090143239,Humpback Whale,0,0,0,0,0,0,0,0
+Humpback Whale-SoundBible.com-156495049,Humpback Whale,0,0,0,0,0,0,0,0
+humpback1,Humpback Whale,0,0,0,0,0,0,0,0
+humpback2,Humpback Whale,0,0,0,0,0,0,0,0
+pnas.1621072114.sa01,Humpback Whale,0,0,0,0,0,0,0,0
+pnas.1621072114.sa02,Humpback Whale,0,0,0,0,0,0,0,0
+pnas.1621072114.sa03,Humpback Whale,0,0,0,0,0,0,0,0
+pnas.1621072114.sa04,Humpback Whale,0,0,0,0,0,0,0,0
+hump2,Humpback Whale,0,0,0,0,0,0,0,0
+hump,Humpback Whale,0,0,0,0,0,0,0,0

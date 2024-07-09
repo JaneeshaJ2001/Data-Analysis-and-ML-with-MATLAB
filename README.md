@@ -11,16 +11,16 @@ The objective is to create a labeled dataset for the detection of blue whale sou
 ### Methodology
 
 - Data Collection ;
-        *   Audio signals were sourced from online databases, field recordings.
+    *    Audio signals were sourced from online databases, field recordings.
 
 - Annotation and Labeling : 
-        *   Using Matlab's Signal Labeler app, each audio signal was labeled. Moan and trill regions of blue whale sounds were marked with their start and end times. If no trill was discernible, the trill annotation was assigned values of 0 for start time, end time, and duration.
+    *    Using Matlab's Signal Labeler app, each audio signal was labeled. Moan and trill regions of blue whale sounds were marked with their start and end times. If no trill was discernible, the trill annotation was assigned values of 0 for start time, end time, and duration.
 
 - Feature Extraction : 
-        *   Moan and trill timings, durations, and average spectral centroid, were extracted from each audio signal using Matlab scripts.
+    *    Moan and trill timings, durations, and average spectral centroid, were extracted from each audio signal using Matlab scripts.
 
 - Dataset Organization : 
-        *   The dataset was structured in CSV format, with each row representing an audio recording and its corresponding annotations and extracted features. A "Label" column was included to classify each recording as either containing blue whale sounds (1) or not (0).
+    *    The dataset was structured in [CSV](https://github.com/JaneeshaJ2001/Data-Analysis-and-ML-with-MATLAB/blob/main/Task%201/Whalesong.csv) format, with each row representing an audio recording and its corresponding annotations and extracted features. A "Label" column was included to classify each recording as either containing blue whale sounds (1) or not (0).
 
 
 ## Task 2
@@ -31,7 +31,7 @@ Build a predictive data model to analyze and understand the socio-demographic in
 
 ### Description Of Dataset
 
-This data approach student achievement in secondary education of two Portuguese schools. The [data_attributes](Task 2/Attribute Information) include student grades, demographic, social and school-related features and it was collected by using school reports and questionnaires. Two datasets are concatenated which the performance in two distinct subjects: Mathematics (mat) and Portuguese language (por). [Dataset](Task 2/student-mat.csv) 
+This data approach student achievement in secondary education of two Portuguese schools. The [data attributes](https://github.com/JaneeshaJ2001/Data-Analysis-and-ML-with-MATLAB/blob/main/Task%202/Attribute%20Information) include student grades, demographic, social and school-related features and it was collected by using school reports and questionnaires. Two datasets are concatenated which the performance in two distinct subjects: Mathematics (mat) and Portuguese language (por). [Dataset](https://github.com/JaneeshaJ2001/Data-Analysis-and-ML-with-MATLAB/blob/main/Task%202/student-mat.csv) 
 
 ### Methodology
 
@@ -64,4 +64,4 @@ Various packages such as seaborn & matplotlib used to represent the data along w
 - Does gender affect grades?
 - Reason vs Students Count
 
-All the EDA visualizations ,observations and the code for model training can be found [here](Task 2/student-grades.ipynb).
+All the EDA visualizations ,observations and the code for model training can be found [here](https://github.com/JaneeshaJ2001/Data-Analysis-and-ML-with-MATLAB/blob/main/Task%202/student-grades.ipynb).

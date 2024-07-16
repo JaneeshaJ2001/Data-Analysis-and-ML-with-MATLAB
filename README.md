@@ -1,6 +1,6 @@
 # Data-Analysis-and-ML-with-MATLAB
 
-This repository contains two tasks:
+This repository contains two tasks. The first task involves signal labeling for blue whale sound detection using MATLAB. The second task involves building a predictive model to analyze socio-demographic influences on student grades. 
 
 ## Task 1
 
